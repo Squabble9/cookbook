@@ -1,7 +1,7 @@
 [![Unit Tests](https://github.com/Railgun-Community/cookbook/actions/workflows/unit-tests.yml/badge.svg?branch=main)](https://github.com/Railgun-Community/cookbook/actions)
 [![Integration Tests](https://github.com/Railgun-Community/cookbook/actions/workflows/integration-tests.yml/badge.svg?branch=main)](https://github.com/Railgun-Community/cookbook/actions)
 
-> **fxmint fork notice:** This fork hosts the [`fxmint` branch](https://github.com/Squabble9/cookbook/tree/fxmint) — a set of f(x) Protocol recipes for private fxUSD minting on Ethereum. Upstream PR: [link to be filled Monday after PR opens]. Recipe-level docs live in [`docs/fx/`](https://github.com/Squabble9/cookbook/tree/fxmint/docs/fx) on the `fxmint` branch.
+> **fxmint fork notice:** This fork hosts the [`fxmint` branch](https://github.com/Squabble9/cookbook/tree/fxmint) — a set of f(x) Protocol recipes for private fxUSD minting on Ethereum. Upstream PR: [Railgun-Community/cookbook#53](https://github.com/Railgun-Community/cookbook/pull/53). Recipe-level docs live in [`src/recipes/borrow/fx/`](https://github.com/Squabble9/cookbook/tree/fxmint/src/recipes/borrow/fx) on the `fxmint` branch.
 
 # RAILGUN Cookbook
 
